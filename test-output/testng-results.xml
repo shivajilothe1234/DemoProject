@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-18T09:16:17 IST" name="Suite" finished-at="2025-07-18T09:16:39 IST" duration-ms="21598">
+    <groups>
+      <group name="sanity">
+        <method signature="SimpleDemo.verify_Logo()[pri:0, instance:testCases.SimpleDemo@24269709]" name="verify_Logo" class="testCases.SimpleDemo"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2025-07-18T09:16:17 IST" name="chrometest" finished-at="2025-07-18T09:16:39 IST" duration-ms="21598">
+      <class name="testCases.SimpleDemo">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.SimpleDemo@24269709]" started-at="2025-07-18T09:16:18 IST" name="setup" finished-at="2025-07-18T09:16:37 IST" duration-ms="18672" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_Logo()[pri:0, instance:testCases.SimpleDemo@24269709]" started-at="2025-07-18T09:16:37 IST" name="verify_Logo" finished-at="2025-07-18T09:16:39 IST" duration-ms="1941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Logo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.SimpleDemo@24269709]" started-at="2025-07-18T09:16:39 IST" name="tearDown" finished-at="2025-07-18T09:16:39 IST" duration-ms="352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.SimpleDemo -->
+    </test> <!-- chrometest -->
+  </suite> <!-- Suite -->
+</testng-results>
