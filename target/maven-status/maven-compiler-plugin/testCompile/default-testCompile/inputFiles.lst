@@ -6,6 +6,7 @@ C:\Users\user\eclipse-workspace\DemoProject\src\test\java\pageObjects\LoginPage.
 C:\Users\user\eclipse-workspace\DemoProject\src\test\java\testBase\BaseClass.java
 C:\Users\user\eclipse-workspace\DemoProject\src\test\java\testCases\SimpleDemo.java
 C:\Users\user\eclipse-workspace\DemoProject\src\test\java\testCases\TC001_LoginDDT.java
+C:\Users\user\eclipse-workspace\DemoProject\src\test\java\testCases\TC002_URLDemo.java
 C:\Users\user\eclipse-workspace\DemoProject\src\test\java\utilities\DataProviders.java
 C:\Users\user\eclipse-workspace\DemoProject\src\test\java\utilities\ExcelUtility.java
 C:\Users\user\eclipse-workspace\DemoProject\src\test\java\utilities\ExtentReportManager.java
